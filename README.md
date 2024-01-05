@@ -1,6 +1,6 @@
 # SoyHenry Prep Course Repository
 
-![SoyHenry](https://github.com/Neoagustin/RepositorioHenry/assets/99112245/3a9b0bac-225e-46b1-ae3c-642925d62ec7)
+<img src="https://github.com/Neoagustin/RepositorioHenry/assets/99112245/3a9b0bac-225e-46b1-ae3c-642925d62ec7" width="200">
 
 Este repositorio alberga los trabajos prácticos (homeWorks) correspondientes al Prep Course de SoyHenry. El Prep Course está diseñado para preparar a los estudiantes para el desafiante Henry Challenge, que es la culminación del programa de formación.
 
